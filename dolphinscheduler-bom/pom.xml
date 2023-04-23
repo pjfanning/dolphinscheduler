@@ -94,7 +94,7 @@
         <snappy.version>1.1.8.4</snappy.version>
         <spark.version>3.2.2</spark.version>
         <janino.version>3.0.16</janino.version>
-        <snakeyaml.version>1.31</snakeyaml.version>
+        <snakeyaml.version>2.0</snakeyaml.version>
     </properties>
 
     <dependencyManagement>
