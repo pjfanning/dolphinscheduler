@@ -45,7 +45,7 @@
         <slf4j-api.version>1.7.36</slf4j-api.version>
         <log4j-slf4j-impl.version>2.17.2</log4j-slf4j-impl.version>
         <guava.version>31.0.1-jre</guava.version>
-        <jackson.version>2.13.2</jackson.version>
+        <jackson.version>2.15.0</jackson.version>
         <checkstyle.version>3.1.2</checkstyle.version>
         <junit-pioneer.version>2.2.0</junit-pioneer.version>
         <http.components.version>4.5.13</http.components.version>
