@@ -39,7 +39,7 @@
         <selenium.version>4.21.0</selenium.version>
         <testcontainers.version>1.19.8</testcontainers.version>
         <lombok.version>1.18.24</lombok.version>
-        <assertj-core.version>3.23.1</assertj-core.version>
+        <assertj-core.version>3.27.7</assertj-core.version>
         <awaitility.version>4.1.0</awaitility.version>
         <kotlin.version>1.5.30</kotlin.version>
         <slf4j-api.version>1.7.36</slf4j-api.version>
